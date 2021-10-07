@@ -1,6 +1,3 @@
-
-
-
 public class Varargs {
     public static void main(String[] args) {
         System.out.println(sum(1,3,4,5));
