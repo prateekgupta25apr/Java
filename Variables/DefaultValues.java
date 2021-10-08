@@ -1,3 +1,5 @@
+package Variables;
+
 class DefaultValues{
 	static byte b;
 	static short s;

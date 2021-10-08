@@ -1,3 +1,5 @@
+package Arrays;
+
 class DaysAndMonths{
 	public static void main(String []args){
 		String[] days={"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday",};
