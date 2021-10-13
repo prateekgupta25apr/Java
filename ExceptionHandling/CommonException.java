@@ -1,6 +1,5 @@
 package ExceptionHandling;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class CommonException {
@@ -41,64 +40,39 @@ public class CommonException {
     }
 
     static void produceStackoverflowException(int i) {
-        try {
-            produceStackoverflowException(++i);
-        } catch (StackOverflowError stackOverflowError) {
-            System.err.println(stackOverflowError.getMessage());
-        }
+        produceStackoverflowException(++i);
     }
 
     static void produceArrayIndexOutOfBoundsException() {
         int[] a = {1};
-        try {
-            for (int i = 0; i <= a.length; i++)
-                System.out.println(a[i]);
-        } catch (ArrayIndexOutOfBoundsException arrayIndexOutOfBoundsException) {
-            System.out.println(arrayIndexOutOfBoundsException.getMessage());
-        }
-
+        for (int i = 0; i <= a.length; i++)
+            System.out.println(a[i]);
     }
 
     static void produceStringIndexOutOfBoundsException() {
-        String s="prateek";
-        try {
-            System.out.println(s.charAt(25));
-        }catch (StringIndexOutOfBoundsException stringIndexOutOfBoundsException){
-            System.out.println(stringIndexOutOfBoundsException.getMessage());
-        }
+        String s = "prateek";
+        System.out.println(s.charAt(25));
+
     }
 
     static void produceInputMismatchException() {
-        System.out.println("Enter any number");
-        try {
-            String s=scanner.nextInt();
-        }catch (InputMismatchException inputMismatchException){
-            System.out.println(inputMismatchException.getMessage());
-        }
+        System.out.println("Enter your name");
+        int i = scanner.nextInt();
+
     }
 
     static void produceNullPointerException() {
-        String s=null;
-        try {
-            System.out.println(s.charAt(0));
-        }catch (NullPointerException nullPointerException){
-            System.out.println(nullPointerException.getMessage());
-        }
+        String s = null;
+        System.out.println(s.charAt(0));
+
     }
 
     static void produceArithmeticException() {
-        try {
-            int i=25/0;
-        }catch (ArithmeticException arithmeticException){
-            System.out.println(arithmeticException.getMessage());
-        }
+        int i = 25 / 0;
+
     }
 
     static void produceNumberFormatException() {
-        try {
-            int i="25";
-        }catch (NumberFormatException numberFormatException){
-            System.out.println(numberFormatException.getMessage());
-        }
+        int i = Integer.parseInt("prateek");
     }
 }
