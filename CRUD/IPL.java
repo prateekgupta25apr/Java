@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class IPL {
     static Scanner scanner = new Scanner(System.in);
-    static List<IPLObject> teams=new ArrayList<>();
+    static List<IPLObject> teams = new ArrayList<>();
 
     public static void main(String[] args) {
         byte userChoice;
@@ -28,7 +28,7 @@ public class IPL {
     }
 
     static void addData() {
-        IPLObject object=new IPLObject();
+        IPLObject object = new IPLObject();
 
         System.out.println("Enter name of the team");
         object.setName(scanner.nextLine());
@@ -49,38 +49,36 @@ public class IPL {
     }
 
     static void readData() {
-        for (IPLObject object:teams)
-            System.out.println("Name : "+object.getName()+
-                    "\tNumber of batsman : "+object.getNumberOfBatsman()+
-                    "\tNumber of Bowlers : "+object.getNumberOfBowlers()+
-                    "\tName of the Captain : "+object.getNameOfCaptain()
-                    );
+        for (IPLObject object : teams)
+            System.out.println("Name : " + object.getName() +
+                    "\tNumber of batsman : " + object.getNumberOfBatsman() +
+                    "\tNumber of Bowlers : " + object.getNumberOfBowlers() +
+                    "\tName of the Captain : " + object.getNameOfCaptain()
+            );
     }
 
     static void updateData() {
         System.out.println("Enter name of the team to be updated");
-        String team= scanner.nextLine();
+        String team = scanner.nextLine();
 
-        boolean found=false;
+        boolean found = false;
 
-        for (IPLObject object:teams){
-            if (object.getName().equalsIgnoreCase(team)){
+        for (IPLObject object : teams) {
+            if (object.getName().equalsIgnoreCase(team)) {
                 teams.remove(object);
-                found=true;
+                found = true;
                 break;
             }
         }
         if (found)
-        addData();
+            addData();
         else System.out.println("Team not found");
     }
 
 
-
-
 }
 
-class IPLObject{
+class IPLObject {
     String name;
     byte numberOfBatsman;
     byte numberOfBowlers;
