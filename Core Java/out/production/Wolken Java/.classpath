@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="StaticAndFinal/|Methods/|ControlFlowStatements/|Varargs/" kind="src" path=""/>
+	<classpathentry kind="src" path="ControlFlowStatements"/>
+	<classpathentry kind="src" path="Methods"/>
+	<classpathentry kind="src" path="StaticAndFinal"/>
+	<classpathentry kind="src" path="Varargs"/>
+	<classpathentry kind="output" path="out/production/Wolken Java"/>
+</classpath>

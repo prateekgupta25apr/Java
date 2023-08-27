@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="388523e6-d68e-4819-ac57-331cf90aa358" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractionAndInterface/Automobiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractionAndInterface/LamborghiniAventador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractionAndInterface/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/DaysAndMonths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD/IPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Mall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/PayingGuest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Wolken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/FunPark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections/Gun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/DefaultConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/ParametrizedConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/UserDefinedDefaultConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlowStatements/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlowStatements/Months.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlowStatements/ScannerMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlowStatements/WeekDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/CommonException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/CustomExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/DTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/UpcastAndDowncast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maps/IntroToMaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StaticAndFinal/StaticAndFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StaticAndFinal/StaticAndFinalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Varargs/Varargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variables/DefaultValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/AbstractionAndInterface/Automobiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/AbstractionAndInterface/LamborghiniAventador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/AbstractionAndInterface/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Arrays/DaysAndMonths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/CRUD/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/CRUD/CountryObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/CRUD/IPL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/CRUD/IPLObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Classes/Cricket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Classes/Encapsulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Classes/Mall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Classes/PayingGuest$PayingGuestType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Classes/PayingGuest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Classes/Wolken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Collections/FunPark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Collections/Gun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Constructors/DefaultConstructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Constructors/ParametrizedConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Constructors/UserDefinedDefaultConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/EvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/AttendanceShortageException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/ChitsFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/ComingLateException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/CommonException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/CustomExceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/JacketOrSweaterFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/MobileFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/NoHallTicketException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/SmartWatchFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/UsingWashroomException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Inheritance/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Inheritance/ChildClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Inheritance/DTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Inheritance/ParentClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Inheritance/Scientist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Inheritance/UpcastAndDowncast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Maps/IntroToMaps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Months.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Overloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/ScannerMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/StaticAndFinal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/StaticAndFinalMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Varargs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Variables/DefaultValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/WeekDays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/AbstractionAndInterface/Automobiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/AbstractionAndInterface/LamborghiniAventador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/AbstractionAndInterface/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Arrays/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Arrays/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Arrays/DaysAndMonths.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/CRUD/Country.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/CRUD/CountryObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/CRUD/IPL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/CRUD/IPLObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Classes/Cricket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Classes/Encapsulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Classes/Mall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Classes/PayingGuest$PayingGuestType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Classes/PayingGuest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Classes/Wolken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Collections/FunPark.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Collections/Gun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Constructors/DefaultConstructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Constructors/ParametrizedConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Constructors/UserDefinedDefaultConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/EvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ExceptionHandling/AttendanceShortageException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ExceptionHandling/ChitsFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ExceptionHandling/ComingLateException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ExceptionHandling/CommonException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ExceptionHandling/CustomExceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ExceptionHandling/JacketOrSweaterFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ExceptionHandling/MobileFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ExceptionHandling/NoHallTicketException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ExceptionHandling/SmartWatchFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ExceptionHandling/UsingWashroomException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Inheritance/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Inheritance/ChildClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Inheritance/DTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Inheritance/ParentClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Inheritance/Scientist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Inheritance/UpcastAndDowncast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Maps/IntroToMaps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Months.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Overloading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/ScannerMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/StaticAndFinal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/StaticAndFinalMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Varargs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/Variables/DefaultValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Wolken Java/WeekDays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractionAndInterface/Automobiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractionAndInterface/LamborghiniAventador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractionAndInterface/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/DaysAndMonths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRUD/IPL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/Cricket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/Encapsulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/Mall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/PayingGuest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/Wolken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/FunPark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/Gun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constructors/DefaultConstructors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constructors/ParametrizedConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constructors/UserDefinedDefaultConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowStatements/EvenOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowStatements/Months.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowStatements/ScannerMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlowStatements/WeekDays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Core Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/CommonException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionHandling/CustomExceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/DTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/UpcastAndDowncast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maps/IntroToMaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/Overloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticAndFinal/StaticAndFinal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StaticAndFinal/StaticAndFinalMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Varargs/Varargs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables/DefaultValues.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2UZhsHbZ9bkz9ZEPvtclV3XADGb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;P:/Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\Java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="388523e6-d68e-4819-ac57-331cf90aa358" name="Changes" comment="" />
+      <created>1693153221774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693153221774</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updated Structure">
+      <option name="closed" value="true" />
+      <created>1693153460345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693153460345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Structure" />
+  </component>
+</project>
