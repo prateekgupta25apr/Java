@@ -1,15 +1,17 @@
 <!DOCTYPE web-app PUBLIC
  "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
-
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  <welcome-file-list>
+    <welcome-file>Home.html</welcome-file>
+  </welcome-file-list>
   <servlet>
-    <servlet-name>Servlet</servlet-name>
-    <servlet-class>Servlet</servlet-class>
+    <servlet-name>Main</servlet-name>
+    <servlet-class>Main</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>Servlet</servlet-name>
-    <url-pattern>/servlet</url-pattern>
+    <servlet-name>Main</servlet-name>
+    <url-pattern>/main</url-pattern>
   </servlet-mapping>
 </web-app>
