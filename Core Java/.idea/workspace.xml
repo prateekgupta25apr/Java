@@ -5,12 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="388523e6-d68e-4819-ac57-331cf90aa358" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommonException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/AbstractionAndInterface/Automobiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Arrays/DaysAndMonths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/CRUD/Country.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/CRUD/CountryObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/CRUD/IPL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/CRUD/IPLObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Collections/FunPark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Collections/Gun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Constructors/DefaultConstructors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Constructors/ParametrizedConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Constructors/UserDefinedDefaultConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/EvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/AttendanceShortageException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/ChitsFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/ComingLateException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/CommonException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/CustomExceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/JacketOrSweaterFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/MobileFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/NoHallTicketException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/SmartWatchFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/UsingWashroomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/ChildClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/DTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/ParentClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/Scientist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/UpcastAndDowncast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Maps/IntroToMaps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Months.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Overloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/ScannerMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/StaticAndFinal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/StaticAndFinalMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Varargs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Variables/DefaultValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/WeekDays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -23,17 +79,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Temp/Java/JDBC",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;P:/Java/JDBC&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="P:\Java" />
@@ -62,5 +118,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated Structure" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated Structure" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
