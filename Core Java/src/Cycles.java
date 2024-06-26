@@ -1,6 +1,11 @@
 package src;
 
 /**
+ * Question:
+ * Given an unsorted array of integer from 1 to n, swap the values in the array to
+ * sort the array with min number of swaps
+ * <br>
+ * Solution:
  * The basic logic of cycles is that a cycle comprises elements that can be swapped among
  * themselves to place each in its correct position. For example, if element a should go
  * to the position of b, b to c, c to d, and d back to a, then a -> b -> c -> d -> a forms
@@ -13,30 +18,25 @@ package src;
  */
 public class Cycles {
     public static int minimumSwaps(int[] arr) {
-        int swaps = 0;
-        boolean[] visited = new boolean[arr.length];
-
-        for (int i = 0; i < arr.length; i++) {
-            if (visited[i] || arr[i] == i + 1) {
+        boolean[] swapped =new boolean[arr.length];
+        int minimumSwaps=0;
+        for(int i=0;i<arr.length;i++){
+            if(swapped[i]||arr[i]==(i+1))
                 continue;
+
+            int currentCycleSwaps=0;
+            int j=i;
+
+            while(!swapped[j]){
+                swapped[j]=true;
+                j=arr[j]-1;
+                currentCycleSwaps++;
             }
 
-            int cycleSize = 0;
-            int j = i;
-
-            while (!visited[j]) {
-                visited[j] = true;
-                j = arr[j] - 1; // Move to the next index in the cycle
-                cycleSize++;
-            }
-
-            if (cycleSize > 0) {
-                System.out.println(cycleSize-1);
-                swaps += (cycleSize - 1);
-            }
+            if(currentCycleSwaps>0)
+                minimumSwaps+=currentCycleSwaps-1;
         }
-
-        return swaps;
+        return minimumSwaps;
     }
 
     public static void main(String[] args) {
