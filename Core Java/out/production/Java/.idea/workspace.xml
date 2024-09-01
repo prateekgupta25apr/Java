@@ -5,64 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="388523e6-d68e-4819-ac57-331cf90aa358" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CommonException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/.idea/jpa-buddy.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CommonException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/AbstractionAndInterface/Automobiles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Arrays/DaysAndMonths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/CRUD/Country.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/CRUD/CountryObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/CRUD/IPL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/CRUD/IPLObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Collections/FunPark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Collections/Gun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Constructors/DefaultConstructors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Constructors/ParametrizedConstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Constructors/UserDefinedDefaultConstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/EvenOdd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/AttendanceShortageException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/ChitsFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/ComingLateException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/CommonException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/CustomExceptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/JacketOrSweaterFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/MobileFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/NoHallTicketException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/SmartWatchFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ExceptionHandling/UsingWashroomException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/ChildClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/DTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/ParentClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/Scientist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Inheritance/UpcastAndDowncast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Maps/IntroToMaps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Months.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Overloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/ScannerMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/StaticAndFinal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/StaticAndFinalMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Varargs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Variables/DefaultValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/WeekDays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RangeUpdateAndPrefixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RangeUpdateAndPrefixSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prateekgupta25apr&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prateekgupta25apr/Java.git&quot;,
+    &quot;accountId&quot;: &quot;08bb5880-bbf7-463c-8e58-d99f1698f3e6&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -73,10 +47,13 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RangeUpdateAndPrefixSum.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;P:/Java/JDBC&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;P:/Java/Core Java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -104,25 +81,47 @@
       <option name="project" value="LOCAL" />
       <updated>1693153460345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Cycles.java">
+      <option name="closed" value="true" />
+      <created>1719418013222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719418013222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added RangeUpdateAndPrefixSum.java">
+      <option name="closed" value="true" />
+      <created>1719431529408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719431529408</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Dates.java">
+      <option name="closed" value="true" />
+      <created>1719723533457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719723533457</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated Structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Structure" />
+    <MESSAGE value="Added Cycles.java" />
+    <MESSAGE value="Added RangeUpdateAndPrefixSum.java" />
+    <MESSAGE value="Added Dates.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Dates.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Practice.java</url>
-          <line>37</line>
+          <line>23</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Practice.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

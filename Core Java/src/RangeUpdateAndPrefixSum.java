@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Question:
+ * <b>Question:</b>
  * Starting with a 1-indexed array of zeros and a list of operations, for each operation add
  * a value to each the array element between two given indices, inclusive. Once all operations
  * have been performed, return the maximum value in the array.
@@ -25,12 +25,12 @@ import java.util.List;
  * 	[3,3,3,10,10,8,8,8,1, 0] // added 1 for range 6 to 9
  * 	The largest value is 10 after all operations are performed.
  * 	<br>
- * 	Solution:
+ * 	<b>Solution:</b>
  * 	So basically we need to a number k for the range a to b inclusive so instead of adding the
  * 	k for the range a to b for all the queries we will just update the starting and the ending
  * 	of the range and then accumulate the sum.So
- * 	Increment Start: By adding k at index a-1, we indicate that starting from this index,
- * 	the values should be incremented by k.
+ * 	Increment Start: By adding k at index a-1(as provided index values start from 1 not 0),
+ * 	we indicate that starting from this index, the values should be incremented by k.
  *  Increment End: By subtracting k at index b, we indicate that the increment should stop
  *  after index b−1(that is 1 after the range).
  *  Prefix Sum: Calculating the prefix sum accumulates these increments, effectively
@@ -38,7 +38,8 @@ import java.util.List;
  *  the range for each query.
  */
 public class RangeUpdateAndPrefixSum {
-    public static long arrayManipulation(int n, List<List<Integer>> queries) {
+    public static long arrayManipulation (
+            int n, List<List<Integer>> queries) {
         long[] arrayList=new long[n+1];
         long max=0;
         for (List<Integer> input:queries){
