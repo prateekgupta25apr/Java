@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="388523e6-d68e-4819-ac57-331cf90aa358" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Threads.java" afterDir="false" />
+    <list default="true" id="388523e6-d68e-4819-ac57-331cf90aa358" name="Changes" comment="Added Threads.java">
+      <change afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RangeUpdateAndPrefixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RangeUpdateAndPrefixSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +50,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.MergeSort.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.RangeUpdateAndPrefixSum.executor": "Run",
     "Application.ThreadLifecycleDemo.executor": "Run",
+    "Application.Threads.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "P:/Java/Core Java",
@@ -107,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719723533457</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Threads.java">
+      <option name="closed" value="true" />
+      <created>1725217914171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725217914172</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,15 +128,21 @@
     <MESSAGE value="Added Cycles.java" />
     <MESSAGE value="Added RangeUpdateAndPrefixSum.java" />
     <MESSAGE value="Added Dates.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Dates.java" />
+    <MESSAGE value="Added Threads.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Threads.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Practice.java</url>
-          <line>21</line>
+          <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeSort.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
