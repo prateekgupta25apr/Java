@@ -40,8 +40,8 @@ public class MergeSort {
      */
     static void iterativeMergeSort(int[] array){
         int n = array.length;
-        for (int currSize = 1; currSize < n; currSize *= 2) {
-            for (int leftStart = 0; leftStart < n - 1; leftStart += 2 * currSize) {
+        for (int currSize = 1; currSize < n; currSize *= 2) {// Size Loop
+            for (int leftStart = 0; leftStart < n - 1; leftStart += 2 * currSize) {// Elements Loop
                 int mid = Math.min(leftStart + currSize - 1, n - 1);
                 int rightEnd = Math.min(leftStart + (2 * currSize) - 1, n - 1);
                 merge(array, leftStart, mid, rightEnd);

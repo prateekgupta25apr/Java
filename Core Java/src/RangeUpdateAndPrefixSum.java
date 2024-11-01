@@ -1,8 +1,6 @@
 package src;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 /**
  * <b>Question:</b>
@@ -38,18 +36,19 @@ import java.util.List;
  *  the range for each query.
  */
 public class RangeUpdateAndPrefixSum {
-    public static long arrayManipulation (
-            int n, List<List<Integer>> queries) {
-        long[] arrayList=new long[n+1];
+    public static long arrayManipulation (List<List<Integer>> queries) {
+        Map<Long,Long> map=new TreeMap<>();
         long max=0;
         for (List<Integer> input:queries){
-            arrayList[input.get(0)-1]+=input.get(2);
-            arrayList[input.get(1)]-=input.get(2);
+            map.put(input.get(0) - 1L,
+                    map.getOrDefault(input.get(0) - 1L, 0L) + input.get(2));
+            map.put(Long.valueOf(input.get(1)),
+                    map.getOrDefault(Long.valueOf(input.get(1)), 0L) - input.get(2));
         }
 
         long sum=0;
-        for (Long i:arrayList){
-            sum+=i;
+        for (Map.Entry<Long, Long> i:map.entrySet()){
+            sum+=i.getValue();
             if (sum>max)
                 max=sum;
         }
@@ -65,6 +64,6 @@ public class RangeUpdateAndPrefixSum {
         inputs.add(Arrays.asList(2,5,100));
         inputs.add(Arrays.asList(3,4,100));
 
-        System.out.println(arrayManipulation(5,inputs));
+        System.out.println(arrayManipulation(inputs));
     }
 }
