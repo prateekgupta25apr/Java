@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="388523e6-d68e-4819-ac57-331cf90aa358" name="Changes" comment="Added MergeSort.java">
-      <change afterPath="$PROJECT_DIR$/src/DateManager.java" afterDir="false" />
+    <list default="true" id="388523e6-d68e-4819-ac57-331cf90aa358" name="Changes" comment="Added DateManager">
+      <change afterPath="$PROJECT_DIR$/src/TimeLimit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RangeUpdateAndPrefixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RangeUpdateAndPrefixSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +52,7 @@
     "Application.RangeUpdateAndPrefixSum.executor": "Run",
     "Application.ThreadLifecycleDemo.executor": "Run",
     "Application.Threads.executor": "Run",
+    "Application.TimeLimit.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -129,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725821580642</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added DateManager">
+      <option name="closed" value="true" />
+      <created>1730469106935</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730469106935</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,7 +144,8 @@
     <MESSAGE value="Added Dates.java" />
     <MESSAGE value="Added Threads.java" />
     <MESSAGE value="Added MergeSort.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added MergeSort.java" />
+    <MESSAGE value="Added DateManager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added DateManager" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
